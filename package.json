@@ -7,7 +7,8 @@
   "license": "UNLICENSE",
   "private": true,
   "dependencies": {
-    "@openzeppelin/contracts": "^4.8.0"
+    "@openzeppelin/contracts": "^4.8.0",
+    "dotenv": "^16.0.3"
   },
   "devDependencies": {
     "@ethersproject/abi": "^5.4.7",
